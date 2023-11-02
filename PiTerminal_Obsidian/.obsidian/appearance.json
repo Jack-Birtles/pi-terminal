@@ -1,0 +1,11 @@
+{
+  "accentColor": "#8ccf7e",
+  "cssTheme": "Everblush",
+  "interfaceFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Mono",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "snippets"
+  ]
+}
