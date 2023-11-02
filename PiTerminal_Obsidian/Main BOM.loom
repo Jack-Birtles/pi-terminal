@@ -1,0 +1,592 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "80px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Qty",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "228px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Item",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "463px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Link",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "135px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Price",
+        "numberFormat": "currency",
+        "currencyType": "GBP",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "59fd3496-0584-4ff1-ba55-1cc813eab177",
+        "index": 0,
+        "sourceId": null,
+        "creationTime": 1698932067363,
+        "lastEditedTime": 1698932202853,
+        "cells": [
+          {
+            "id": "aed8bfe4-7679-4714-b94b-4216f213b53b",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "76715f57-ba5c-4c05-873d-9602ebd5f2ed",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "Raspberry Pi 5 8GB",
+            "tagIds": []
+          },
+          {
+            "id": "5a0a0f6d-fbce-486c-ac37-0d8f87823f19",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "https://thepihut.com/products/raspberry-pi-5?variant=42531604955331",
+            "tagIds": []
+          },
+          {
+            "id": "bdc99bfa-c31c-4f04-b5f3-4c26010d3a14",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "79",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "9c7846d1-3fbc-4ec2-ba1b-4913275aa73c",
+        "index": 1,
+        "sourceId": null,
+        "creationTime": 1698932073805,
+        "lastEditedTime": 1698942506332,
+        "cells": [
+          {
+            "id": "563a237b-68e1-4b08-a477-58bff46c7301",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "68b535d4-65cc-48c9-8063-9cde82a283cd",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "CPU Cooler",
+            "tagIds": []
+          },
+          {
+            "id": "47240a4b-bd6c-4d88-8b2a-9a9d7a9feec3",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "https://thepihut.com/products/active-cooler-for-raspberry-pi-5",
+            "tagIds": []
+          },
+          {
+            "id": "4462c1cd-071d-4120-a363-68892b441382",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "4.9",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "a790513d-7a6c-403b-939b-23056aa0a39f",
+        "index": 2,
+        "sourceId": null,
+        "creationTime": 1698932307068,
+        "lastEditedTime": 1698942048173,
+        "cells": [
+          {
+            "id": "bd3224f1-752e-4466-a832-16979aa71d35",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "c63617f1-7c84-4a20-bb69-e9da402a4026",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "UPS",
+            "tagIds": []
+          },
+          {
+            "id": "9a5b90e0-feac-4ef8-b610-3feed66aac18",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "2-Cell Version: https://thepihut.com/products/uninterruptible-power-supply-ups-hat-a-for-raspberry-pi    3-Cell Version: https://thepihut.com/products/ups-module-3s",
+            "tagIds": []
+          },
+          {
+            "id": "4bd47374-28c3-4096-a059-809fc4160785",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "0be65117-c0ec-4bb8-80f4-b0a3789844a0",
+        "index": 3,
+        "sourceId": null,
+        "creationTime": 1698932314762,
+        "lastEditedTime": 1698942163085,
+        "cells": [
+          {
+            "id": "e69c8e45-879f-406b-be1f-c3454e8dfae6",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "e1b9636f-08cd-46ff-b0bc-16127ae99298",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "UPS Batteries",
+            "tagIds": []
+          },
+          {
+            "id": "b1443c5a-5437-49a3-9277-ba8db001131f",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "2-3 unprotected 18650 Li-Ion — 3400mAh",
+            "tagIds": []
+          },
+          {
+            "id": "4538fb3d-ab60-451b-97c2-2916295a63a9",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "edd6f45f-6f14-4841-ad8a-a1c7a8bcc955",
+        "index": 4,
+        "sourceId": null,
+        "creationTime": 1698932359074,
+        "lastEditedTime": 1698932516846,
+        "cells": [
+          {
+            "id": "580309be-b732-41c7-909b-a6ecfb6e7404",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "96c5df96-112d-48cc-ab0a-563668b87870",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "LCD Screen 8\" HJ080IA-01E",
+            "tagIds": []
+          },
+          {
+            "id": "a8d4fa79-5b9a-4617-8d30-8d217b245b96",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "https://s.click.aliexpress.com/e/_DmC2qmH",
+            "tagIds": []
+          },
+          {
+            "id": "dfa1bec9-0cbf-44a7-a96a-f53cb058aff4",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "45",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "e41886c1-7211-40bf-9f4a-2bbefa8d2f3d",
+        "index": 5,
+        "sourceId": null,
+        "creationTime": 1698933080268,
+        "lastEditedTime": 1698933180900,
+        "cells": [
+          {
+            "id": "65b462f7-ef00-4a28-b502-e0c0e6970d58",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "e24a1a77-a3b1-4f5f-b0f3-8d881fe19fae",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "HDMI Switcher",
+            "tagIds": []
+          },
+          {
+            "id": "3560938b-c002-43f9-ac37-abf132c627aa",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "https://geni.us/OfXlV",
+            "tagIds": []
+          },
+          {
+            "id": "dd5cc9ef-faa6-4c4a-be68-185cf433278e",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "7e2f7e9c-8b3a-4cb3-a613-e0d5063176bc",
+        "index": 6,
+        "sourceId": null,
+        "creationTime": 1698932648938,
+        "lastEditedTime": 1698933201749,
+        "cells": [
+          {
+            "id": "a61e4ba2-01d0-4de4-9822-263008f50aea",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "e5002ff0-158a-439e-9416-6a3eefcb566b",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "Micro to Standard HDMI Male to Male",
+            "tagIds": []
+          },
+          {
+            "id": "5bbea1d2-01e7-4299-b545-3901d40a3028",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "https://s.click.aliexpress.com/e/_DeT0a9b",
+            "tagIds": []
+          },
+          {
+            "id": "314f4960-f75e-4491-a602-fcb81b238623",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "440a5c62-5084-45fc-83b0-495393d6d986",
+        "index": 7,
+        "sourceId": null,
+        "creationTime": 1698932689502,
+        "lastEditedTime": 1698933206344,
+        "cells": [
+          {
+            "id": "9a1ffaa0-2968-4c0b-9c51-6a4f8bae5174",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "98455b70-71a4-4afa-93e3-606c8a8c6b5d",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "Standard HDMI Male to Female",
+            "tagIds": []
+          },
+          {
+            "id": "b2ce31f2-2b73-4c92-86b6-ac6004e945b0",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "https://s.click.aliexpress.com/e/_DeT0a9b",
+            "tagIds": []
+          },
+          {
+            "id": "1feb2f47-a05b-4c19-95ab-0e11193bb71e",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "1ab02361-2208-4036-a442-8921eafdde99",
+        "index": 8,
+        "sourceId": null,
+        "creationTime": 1698932723268,
+        "lastEditedTime": 1698933218981,
+        "cells": [
+          {
+            "id": "6a7f9327-781b-4b77-a088-1cb67cadda50",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "4369960f-0a08-4004-a4d6-746a449f1989",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "Standard  HDMI Male to Male",
+            "tagIds": []
+          },
+          {
+            "id": "62c129ce-88f6-4663-bede-e0e2ed53ea1c",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "https://s.click.aliexpress.com/e/_DeT0a9b",
+            "tagIds": []
+          },
+          {
+            "id": "32c81f54-23ea-4625-80f5-9ad3f7347d1a",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "d00e26da-0b50-47ed-b63e-63e6a7a8d626",
+        "index": 9,
+        "sourceId": null,
+        "creationTime": 1698932724156,
+        "lastEditedTime": 1698933220165,
+        "cells": [
+          {
+            "id": "bf9364ae-ba4f-44ba-a60b-2e88abb1b420",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "177cb9aa-7e9e-49a0-9a88-00cc37a338ff",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "Short Micro HDMI Cable",
+            "tagIds": []
+          },
+          {
+            "id": "3bcb1dfe-372b-481a-ae48-22e50802cf34",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "https://s.click.aliexpress.com/e/_DeT0a9b",
+            "tagIds": []
+          },
+          {
+            "id": "1a64eba4-1de9-4463-bd5b-2934a3c54992",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "c244da25-20df-47a2-af77-4f6614bd00e3",
+        "index": 10,
+        "sourceId": null,
+        "creationTime": 1698932724980,
+        "lastEditedTime": 1698932914087,
+        "cells": [
+          {
+            "id": "7954faaa-3b92-4d98-afab-2c3231c37847",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "1712bf11-d830-4152-b9e4-0fd9c398b858",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "Short Micro to Micro USB Cable",
+            "tagIds": []
+          },
+          {
+            "id": "1db25380-8417-4229-a07e-ba0ba2cf9f46",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "e5bcade1-06a3-48ed-8baf-cd461b012102",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "ed08fcc9-a5d6-497e-849d-650c2519aadc",
+        "index": 11,
+        "sourceId": null,
+        "creationTime": 1698932915401,
+        "lastEditedTime": 1698932950420,
+        "cells": [
+          {
+            "id": "d6ab1fa6-72a9-4571-b756-f810f5d87ac8",
+            "isExternalLink": false,
+            "columnId": "18104356-ac61-4a1b-acb8-601ad6c02d75",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "505a972b-3d39-41ee-b35e-09dd764e1fbc",
+            "isExternalLink": false,
+            "columnId": "8ea2e1f1-58ad-49dc-8ad8-3186eaaa10da",
+            "dateTime": null,
+            "content": "Short 3.5mm Male to Male cable",
+            "tagIds": []
+          },
+          {
+            "id": "51f8382e-7677-418d-922b-0c60bdb146df",
+            "isExternalLink": false,
+            "columnId": "f5990a04-6249-4187-9c7c-4bb09f5ec8fe",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "a687af51-0098-4343-982c-347fb82fa9d5",
+            "isExternalLink": false,
+            "columnId": "697c7153-3676-41db-9d04-e4e17fd6b6f2",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.10.1"
+}

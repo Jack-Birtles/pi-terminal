@@ -1,0 +1,510 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Qty",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "548px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Description",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "557px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Link",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "22580728-a367-44c7-9ce0-2114f90dfe63",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Price",
+        "numberFormat": "currency",
+        "currencyType": "GBP",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "144a8f50-3668-4972-a6fc-352fb0567c38",
+        "index": 0,
+        "sourceId": null,
+        "creationTime": 1698934269111,
+        "lastEditedTime": 1698937117746,
+        "cells": [
+          {
+            "id": "209fc0f1-fedf-4bc6-91a4-f7a66920e325",
+            "isExternalLink": false,
+            "columnId": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "eb9d1f16-7903-4f14-868b-a1b92aa50c7f",
+            "isExternalLink": false,
+            "columnId": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+            "dateTime": null,
+            "content": "Heat-Set Inserts for Plastic 1/4\"-20 Thread Size, 0.3\" Installed Length, Brass",
+            "tagIds": []
+          },
+          {
+            "id": "306082a0-0c7e-4ee8-a2f2-45a209d2cceb",
+            "isExternalLink": false,
+            "columnId": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "c654b8e5-c11e-41c4-ac4e-2d660ed6a44a",
+            "isExternalLink": false,
+            "columnId": "22580728-a367-44c7-9ce0-2114f90dfe63",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "16a56050-a21e-4e40-8f49-45a9d5b2e3b1",
+        "index": 1,
+        "sourceId": null,
+        "creationTime": 1698935778551,
+        "lastEditedTime": 1698938681166,
+        "cells": [
+          {
+            "id": "760538d1-448e-4d41-bb6c-d746ce5933c2",
+            "isExternalLink": false,
+            "columnId": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+            "dateTime": null,
+            "content": "8",
+            "tagIds": []
+          },
+          {
+            "id": "672f4951-c016-44aa-a258-579a1cab52e0",
+            "isExternalLink": false,
+            "columnId": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+            "dateTime": null,
+            "content": "Heat-Set Inserts for Plastic Brass, M4 x 0.70 mm Thread Size, 7.900 mm Installed Length",
+            "tagIds": []
+          },
+          {
+            "id": "5449860b-b8f5-4339-8e9a-aa0012714d30",
+            "isExternalLink": false,
+            "columnId": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+            "dateTime": null,
+            "content": "https://vi.aliexpress.com/item/1005004049942456.html?gatewayAdapt=glo2vnm",
+            "tagIds": []
+          },
+          {
+            "id": "866b7a6d-1355-4244-85fa-247d6724c9df",
+            "isExternalLink": false,
+            "columnId": "22580728-a367-44c7-9ce0-2114f90dfe63",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "bb85ce60-b1f9-46ab-90bc-0d44b63d0e72",
+        "index": 2,
+        "sourceId": null,
+        "creationTime": 1698935779107,
+        "lastEditedTime": 1698938691964,
+        "cells": [
+          {
+            "id": "f58a035c-c4d4-4143-bbac-845c1bb18526",
+            "isExternalLink": false,
+            "columnId": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+            "dateTime": null,
+            "content": "21",
+            "tagIds": []
+          },
+          {
+            "id": "69aa2f2d-d840-4cd5-9b1a-2e890a35a51b",
+            "isExternalLink": false,
+            "columnId": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+            "dateTime": null,
+            "content": "Heat-Set Inserts for Plastic Brass, M2.5 x 0.45 mm Thread Size, 3.4 mm Installed Length",
+            "tagIds": []
+          },
+          {
+            "id": "00822d09-e588-43b4-a338-199e5681b277",
+            "isExternalLink": false,
+            "columnId": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+            "dateTime": null,
+            "content": "Included in above",
+            "tagIds": []
+          },
+          {
+            "id": "6ca37555-9f72-4415-b319-0516f1ec622d",
+            "isExternalLink": false,
+            "columnId": "22580728-a367-44c7-9ce0-2114f90dfe63",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "59fe3e85-34ba-4eda-9589-4f26bbdafc69",
+        "index": 3,
+        "sourceId": null,
+        "creationTime": 1698935779541,
+        "lastEditedTime": 1698937129297,
+        "cells": [
+          {
+            "id": "c6166d5d-156d-4b48-8f95-889e28b7aba7",
+            "isExternalLink": false,
+            "columnId": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+            "dateTime": null,
+            "content": "2",
+            "tagIds": []
+          },
+          {
+            "id": "c701ea73-2967-4eb8-a1e6-73f0c748a29f",
+            "isExternalLink": false,
+            "columnId": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+            "dateTime": null,
+            "content": "Round Pull Handle 304 Stainless Steel, 3/4\" Mounting Hole Center-to-Center Width, 1/2\" Projection",
+            "tagIds": []
+          },
+          {
+            "id": "22ea1468-08b4-484b-8469-4b3048cb5e2c",
+            "isExternalLink": false,
+            "columnId": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "fef1f85b-a703-4543-80cb-5d4617cb51df",
+            "isExternalLink": false,
+            "columnId": "22580728-a367-44c7-9ce0-2114f90dfe63",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "12dfa690-2219-4e47-b1cf-4742e25690cb",
+        "index": 4,
+        "sourceId": null,
+        "creationTime": 1698935779913,
+        "lastEditedTime": 1698937131287,
+        "cells": [
+          {
+            "id": "77c38878-2357-4421-a4e7-c448389829b0",
+            "isExternalLink": false,
+            "columnId": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+            "dateTime": null,
+            "content": "4",
+            "tagIds": []
+          },
+          {
+            "id": "15d5f3f5-09f0-41d6-848d-f4c09a7b37a1",
+            "isExternalLink": false,
+            "columnId": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+            "dateTime": null,
+            "content": "Flared-Collar Knurled-Head Thumb Screw M4 x 0.70 mm Thread Size, 10 mm Long",
+            "tagIds": []
+          },
+          {
+            "id": "207374b1-c4a1-4ea7-9ab5-f1609e7cdc87",
+            "isExternalLink": false,
+            "columnId": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "e8575f4a-e48f-49e1-8246-8efe1db4075b",
+            "isExternalLink": false,
+            "columnId": "22580728-a367-44c7-9ce0-2114f90dfe63",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "80222e0a-a4d8-459e-b340-fe58de66cdae",
+        "index": 5,
+        "sourceId": null,
+        "creationTime": 1698935780259,
+        "lastEditedTime": 1698937390489,
+        "cells": [
+          {
+            "id": "f1ff0581-3542-46e4-9b7a-fd9e2890eae6",
+            "isExternalLink": false,
+            "columnId": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+            "dateTime": null,
+            "content": "13",
+            "tagIds": []
+          },
+          {
+            "id": "bc2bd595-c0df-4b8f-a22d-94911c73b44f",
+            "isExternalLink": false,
+            "columnId": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+            "dateTime": null,
+            "content": "Socket Head Screw M2.5 x 0.45 mm Thread, 5 mm Long",
+            "tagIds": []
+          },
+          {
+            "id": "4dd42145-109e-42b8-9292-7894f262903e",
+            "isExternalLink": false,
+            "columnId": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+            "dateTime": null,
+            "content": "https://www.amazon.co.uk/300pcs-3-20mm-Socket-Printed-Project/dp/B07ZRCQRCZ/ref=sr_1_5?crid=3K015LTODYT54&keywords=m2.5+x+3+20mm+bolts+and+nuts+hex+socket+head&qid=1698937273&sprefix=m2.5+x+3+20mm+bolts+and+nuts+hex+socket+head+%2Caps%2C65&sr=8-5",
+            "tagIds": []
+          },
+          {
+            "id": "68bc16a1-7239-4bfe-bab8-67b81b07a54f",
+            "isExternalLink": false,
+            "columnId": "22580728-a367-44c7-9ce0-2114f90dfe63",
+            "dateTime": null,
+            "content": "9.44",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "b63529d1-1289-44aa-b7ab-e17f3f862f8d",
+        "index": 6,
+        "sourceId": null,
+        "creationTime": 1698935780609,
+        "lastEditedTime": 1698937344853,
+        "cells": [
+          {
+            "id": "469603b0-1a19-433b-8228-cd05b938da24",
+            "isExternalLink": false,
+            "columnId": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+            "dateTime": null,
+            "content": "5",
+            "tagIds": []
+          },
+          {
+            "id": "53c8b4d4-8219-46df-b94a-5cc7917515e3",
+            "isExternalLink": false,
+            "columnId": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+            "dateTime": null,
+            "content": "Socket Head Screw M2.5 x 0.45 mm Thread, 20 mm Long",
+            "tagIds": []
+          },
+          {
+            "id": "1f579a81-9ec1-4261-843c-1093606cc438",
+            "isExternalLink": false,
+            "columnId": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+            "dateTime": null,
+            "content": "Included in above",
+            "tagIds": []
+          },
+          {
+            "id": "68d9c5da-6026-4df3-a4f9-4b3ca16e1972",
+            "isExternalLink": false,
+            "columnId": "22580728-a367-44c7-9ce0-2114f90dfe63",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "a0e35371-a59f-4207-b034-781bcc498612",
+        "index": 7,
+        "sourceId": null,
+        "creationTime": 1698935780967,
+        "lastEditedTime": 1698937363761,
+        "cells": [
+          {
+            "id": "d47c415b-c25d-4c6f-a370-37bec660e46b",
+            "isExternalLink": false,
+            "columnId": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+            "dateTime": null,
+            "content": "3",
+            "tagIds": []
+          },
+          {
+            "id": "2c0bfc87-ad4a-4744-9dd9-305d17290005",
+            "isExternalLink": false,
+            "columnId": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+            "dateTime": null,
+            "content": "Socket Head Screw M2.5 x 0.45 mm Thread, 8 mm Long",
+            "tagIds": []
+          },
+          {
+            "id": "97920518-4ccd-4545-8ab9-79b9b377b3ca",
+            "isExternalLink": false,
+            "columnId": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+            "dateTime": null,
+            "content": "Included in above",
+            "tagIds": []
+          },
+          {
+            "id": "38e00f7d-6177-4f41-8afd-425bf90964c5",
+            "isExternalLink": false,
+            "columnId": "22580728-a367-44c7-9ce0-2114f90dfe63",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "73bc5522-bdfc-47fc-9211-1d4ea7346b33",
+        "index": 8,
+        "sourceId": null,
+        "creationTime": 1698935781347,
+        "lastEditedTime": 1698937142224,
+        "cells": [
+          {
+            "id": "e686443c-f117-4f2b-b4dc-89e4e1b18efa",
+            "isExternalLink": false,
+            "columnId": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+            "dateTime": null,
+            "content": "3",
+            "tagIds": []
+          },
+          {
+            "id": "faae8161-ba22-4f0d-978f-27541ecaa216",
+            "isExternalLink": false,
+            "columnId": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+            "dateTime": null,
+            "content": "Flat Head M2.5 x 5 - 6 mm Long",
+            "tagIds": []
+          },
+          {
+            "id": "5b82e264-35e9-41bb-89b3-6f7b58567873",
+            "isExternalLink": false,
+            "columnId": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "89e9df40-1bfc-4c4b-9c92-9b581285f9ee",
+            "isExternalLink": false,
+            "columnId": "22580728-a367-44c7-9ce0-2114f90dfe63",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "3cdc185e-91e4-4554-929f-5a07e89a5a1c",
+        "index": 9,
+        "sourceId": null,
+        "creationTime": 1698935821592,
+        "lastEditedTime": 1698935823757,
+        "cells": [
+          {
+            "id": "d1af13ab-13f6-4fe4-a314-014d631fd468",
+            "isExternalLink": false,
+            "columnId": "80dd7cc9-e8e5-4f0b-94e1-0d7013f3e362",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "c4a8216b-b0c5-4335-bbf5-72126a8cf57b",
+            "isExternalLink": false,
+            "columnId": "56cd884c-5ab5-4fe2-849a-bbbe2a294871",
+            "dateTime": null,
+            "content": "M2.5 Nylon Spacer Standoffs",
+            "tagIds": []
+          },
+          {
+            "id": "d09579af-5808-49d1-a706-25843db1fb67",
+            "isExternalLink": false,
+            "columnId": "d503fe75-6e75-4804-b11e-dfefdc4c7c32",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "250eb65c-aade-46c2-a8c3-cfab61863afb",
+            "isExternalLink": false,
+            "columnId": "22580728-a367-44c7-9ce0-2114f90dfe63",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.10.1"
+}

@@ -1,0 +1,655 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "4149dd56-b40b-48d0-a75e-ad6d8ed4f836",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "100px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Qty",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "1db139c1-ccbd-44f3-80a4-5b0a05ac6be5",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "PCB No.",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "db7fe044-64f3-42b0-9bcb-0c63b8c1ce55",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "455px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Description",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "acea7e15-0006-482f-ad03-f1ce213d8a4d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "245px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Manufacturer Part No.",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "fbf126f8-5a51-41c2-90d7-f0622f48f32c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "298px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Digikey",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "8cb26f70-d8bb-4796-a3ac-3adf251d5e66",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "242px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Price Per 1 (No VAT)",
+        "numberFormat": "currency",
+        "currencyType": "GBP",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "066f1d8b-1a65-4986-8a54-72f49af5dac1",
+        "index": 0,
+        "sourceId": null,
+        "creationTime": 1698933270285,
+        "lastEditedTime": 1698941206129,
+        "cells": [
+          {
+            "id": "41dfdf56-d883-4ae3-8ffd-cb421702d4fa",
+            "isExternalLink": false,
+            "columnId": "4149dd56-b40b-48d0-a75e-ad6d8ed4f836",
+            "dateTime": null,
+            "content": "2",
+            "tagIds": []
+          },
+          {
+            "id": "36f583bc-c13c-4005-9de1-050fd3712998",
+            "isExternalLink": false,
+            "columnId": "1db139c1-ccbd-44f3-80a4-5b0a05ac6be5",
+            "dateTime": null,
+            "content": "R1, R2",
+            "tagIds": []
+          },
+          {
+            "id": "39bc2126-d076-40fe-be91-522718addc77",
+            "isExternalLink": false,
+            "columnId": "db7fe044-64f3-42b0-9bcb-0c63b8c1ce55",
+            "dateTime": null,
+            "content": "100 Ohm Surface Mount Resistor",
+            "tagIds": []
+          },
+          {
+            "id": "076de825-b991-4c4d-9e88-39c3703dc91b",
+            "isExternalLink": false,
+            "columnId": "acea7e15-0006-482f-ad03-f1ce213d8a4d",
+            "dateTime": null,
+            "content": "WR06X101 JTL",
+            "tagIds": []
+          },
+          {
+            "id": "92894949-36c2-4fa8-ae76-30d5648185e7",
+            "isExternalLink": false,
+            "columnId": "fbf126f8-5a51-41c2-90d7-f0622f48f32c",
+            "dateTime": null,
+            "content": "1292-WR06X101JTLCT-ND",
+            "tagIds": []
+          },
+          {
+            "id": "e958d54e-8dd8-4326-b4d7-0379400e3692",
+            "isExternalLink": false,
+            "columnId": "8cb26f70-d8bb-4796-a3ac-3adf251d5e66",
+            "dateTime": null,
+            "content": "0.08",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "39ea6b10-0493-4794-aac2-92d749c76cd6",
+        "index": 1,
+        "sourceId": null,
+        "creationTime": 1698940078335,
+        "lastEditedTime": 1698941212737,
+        "cells": [
+          {
+            "id": "e2bea180-5086-4f62-930f-6dac69a4abf0",
+            "isExternalLink": false,
+            "columnId": "4149dd56-b40b-48d0-a75e-ad6d8ed4f836",
+            "dateTime": null,
+            "content": "2",
+            "tagIds": []
+          },
+          {
+            "id": "f1017a9b-59b1-4977-88f7-f317d3e650b2",
+            "isExternalLink": false,
+            "columnId": "1db139c1-ccbd-44f3-80a4-5b0a05ac6be5",
+            "dateTime": null,
+            "content": "SPK1, SPK2",
+            "tagIds": []
+          },
+          {
+            "id": "606218fc-8bb8-40a2-9394-4d95d4cc31e8",
+            "isExternalLink": false,
+            "columnId": "db7fe044-64f3-42b0-9bcb-0c63b8c1ce55",
+            "dateTime": null,
+            "content": "Rectangular 4 Ohms IoT Speaker 2W",
+            "tagIds": []
+          },
+          {
+            "id": "9cda92cd-70a6-422e-8d1f-b4d9f70c2d7d",
+            "isExternalLink": false,
+            "columnId": "acea7e15-0006-482f-ad03-f1ce213d8a4d",
+            "dateTime": null,
+            "content": "OWS-142550TA-4",
+            "tagIds": []
+          },
+          {
+            "id": "2d02c0fe-8e9e-4aa5-9369-a098f8850b36",
+            "isExternalLink": false,
+            "columnId": "fbf126f8-5a51-41c2-90d7-f0622f48f32c",
+            "dateTime": null,
+            "content": "3949-OWS-142550TA-4-ND",
+            "tagIds": []
+          },
+          {
+            "id": "1b323b04-37fe-4330-836d-8acf98bc6943",
+            "isExternalLink": false,
+            "columnId": "8cb26f70-d8bb-4796-a3ac-3adf251d5e66",
+            "dateTime": null,
+            "content": "1.36",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "706e2fd1-8bfc-4a57-b335-35f761c67f53",
+        "index": 2,
+        "sourceId": null,
+        "creationTime": 1698940079005,
+        "lastEditedTime": 1698941229370,
+        "cells": [
+          {
+            "id": "f95cac70-97db-40be-a5b6-cc045d0f6d53",
+            "isExternalLink": false,
+            "columnId": "4149dd56-b40b-48d0-a75e-ad6d8ed4f836",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "b462cd28-73ef-4056-b12d-5c19cc70d23e",
+            "isExternalLink": false,
+            "columnId": "1db139c1-ccbd-44f3-80a4-5b0a05ac6be5",
+            "dateTime": null,
+            "content": "SW7",
+            "tagIds": []
+          },
+          {
+            "id": "556b4fc3-bd4d-4fce-bb57-1a37f7961e43",
+            "isExternalLink": false,
+            "columnId": "db7fe044-64f3-42b0-9bcb-0c63b8c1ce55",
+            "dateTime": null,
+            "content": "Pushbutton Switch DPDT Keyswitch Through Hole",
+            "tagIds": []
+          },
+          {
+            "id": "98f838e3-56ea-4a14-a035-cfcd561dee99",
+            "isExternalLink": false,
+            "columnId": "acea7e15-0006-482f-ad03-f1ce213d8a4d",
+            "dateTime": null,
+            "content": "PVA2EEH1 1.7N V2",
+            "tagIds": []
+          },
+          {
+            "id": "549a51c8-ff09-43b3-81e6-b3a150aff063",
+            "isExternalLink": false,
+            "columnId": "fbf126f8-5a51-41c2-90d7-f0622f48f32c",
+            "dateTime": null,
+            "content": "108-PVA2EEH11.7NV2-ND",
+            "tagIds": []
+          },
+          {
+            "id": "d60582e4-5c5e-49d8-ae1e-a51d8a606586",
+            "isExternalLink": false,
+            "columnId": "8cb26f70-d8bb-4796-a3ac-3adf251d5e66",
+            "dateTime": null,
+            "content": "1.34",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "39156d71-2e42-4ffc-ab83-e39c7323da83",
+        "index": 3,
+        "sourceId": null,
+        "creationTime": 1698940079661,
+        "lastEditedTime": 1698941244418,
+        "cells": [
+          {
+            "id": "a12754b9-b46a-4792-90f4-eabdddcd6a97",
+            "isExternalLink": false,
+            "columnId": "4149dd56-b40b-48d0-a75e-ad6d8ed4f836",
+            "dateTime": null,
+            "content": "6",
+            "tagIds": []
+          },
+          {
+            "id": "006470cf-9f34-4024-aa12-f332eda68cd5",
+            "isExternalLink": false,
+            "columnId": "1db139c1-ccbd-44f3-80a4-5b0a05ac6be5",
+            "dateTime": null,
+            "content": "SW1, SW2, SW3, SW4, SW5, SW6",
+            "tagIds": []
+          },
+          {
+            "id": "17655d9a-5557-4363-9b79-b037622edb78",
+            "isExternalLink": false,
+            "columnId": "db7fe044-64f3-42b0-9bcb-0c63b8c1ce55",
+            "dateTime": null,
+            "content": "Pushbutton Switch DPST-NO Keyswitch Through Hole",
+            "tagIds": []
+          },
+          {
+            "id": "d33e4096-d5d9-4ec1-bf0b-021a1a90ef3b",
+            "isExternalLink": false,
+            "columnId": "acea7e15-0006-482f-ad03-f1ce213d8a4d",
+            "dateTime": null,
+            "content": "PVA1 OA H1 1.2N V2",
+            "tagIds": []
+          },
+          {
+            "id": "3f10ec77-7133-49a8-98df-378fa7483feb",
+            "isExternalLink": false,
+            "columnId": "fbf126f8-5a51-41c2-90d7-f0622f48f32c",
+            "dateTime": null,
+            "content": "401-1133-ND",
+            "tagIds": []
+          },
+          {
+            "id": "f1a11a90-c8e9-4a31-92d4-321d0af171cb",
+            "isExternalLink": false,
+            "columnId": "8cb26f70-d8bb-4796-a3ac-3adf251d5e66",
+            "dateTime": null,
+            "content": "1.49",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "63adca51-2be5-45cd-bcb9-9c9c91cdafe2",
+        "index": 4,
+        "sourceId": null,
+        "creationTime": 1698940080177,
+        "lastEditedTime": 1698941375939,
+        "cells": [
+          {
+            "id": "9157de1c-11dc-4e90-8286-64350cf4cdcf",
+            "isExternalLink": false,
+            "columnId": "4149dd56-b40b-48d0-a75e-ad6d8ed4f836",
+            "dateTime": null,
+            "content": "3",
+            "tagIds": []
+          },
+          {
+            "id": "fa0e6c1b-de67-4809-81a7-d76308ff1385",
+            "isExternalLink": false,
+            "columnId": "1db139c1-ccbd-44f3-80a4-5b0a05ac6be5",
+            "dateTime": null,
+            "content": "D1, D2, D3",
+            "tagIds": []
+          },
+          {
+            "id": "9c852df9-4a40-40c5-b4d2-0555dee52fdb",
+            "isExternalLink": false,
+            "columnId": "db7fe044-64f3-42b0-9bcb-0c63b8c1ce55",
+            "dateTime": null,
+            "content": "Green 567nm LED Surface Mount",
+            "tagIds": []
+          },
+          {
+            "id": "fc5a5ead-0613-49ff-b34a-bea576fbee52",
+            "isExternalLink": false,
+            "columnId": "acea7e15-0006-482f-ad03-f1ce213d8a4d",
+            "dateTime": null,
+            "content": "PG1101W-TR",
+            "tagIds": []
+          },
+          {
+            "id": "7a717d10-a03e-4a02-9541-4e0a4605d730",
+            "isExternalLink": false,
+            "columnId": "fbf126f8-5a51-41c2-90d7-f0622f48f32c",
+            "dateTime": null,
+            "content": "404-1046-1-ND (Obsolete) 404-1304-1-ND (Replacement)",
+            "tagIds": []
+          },
+          {
+            "id": "482b4c3e-b1b0-4ef0-a6c8-ac908842c61e",
+            "isExternalLink": false,
+            "columnId": "8cb26f70-d8bb-4796-a3ac-3adf251d5e66",
+            "dateTime": null,
+            "content": "0.33",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "a1c84a8f-e046-43de-9664-cc854bb82a31",
+        "index": 5,
+        "sourceId": null,
+        "creationTime": 1698940080781,
+        "lastEditedTime": 1698941416050,
+        "cells": [
+          {
+            "id": "f46843aa-018b-463b-ae60-ad04980d1f08",
+            "isExternalLink": false,
+            "columnId": "4149dd56-b40b-48d0-a75e-ad6d8ed4f836",
+            "dateTime": null,
+            "content": "2",
+            "tagIds": []
+          },
+          {
+            "id": "372aea1e-681e-4603-b13f-c2d8a4983822",
+            "isExternalLink": false,
+            "columnId": "1db139c1-ccbd-44f3-80a4-5b0a05ac6be5",
+            "dateTime": null,
+            "content": "J1, J2",
+            "tagIds": []
+          },
+          {
+            "id": "61d9354b-27f8-4d5b-871f-cbf477a9fa67",
+            "isExternalLink": false,
+            "columnId": "db7fe044-64f3-42b0-9bcb-0c63b8c1ce55",
+            "dateTime": null,
+            "content": "3.5mm TRS Socket",
+            "tagIds": []
+          },
+          {
+            "id": "58e5317c-c797-4241-9319-02ef0151c113",
+            "isExternalLink": false,
+            "columnId": "acea7e15-0006-482f-ad03-f1ce213d8a4d",
+            "dateTime": null,
+            "content": "STX-3790-5N",
+            "tagIds": []
+          },
+          {
+            "id": "b48f1425-b302-4e20-ad98-bf31f07db637",
+            "isExternalLink": false,
+            "columnId": "fbf126f8-5a51-41c2-90d7-f0622f48f32c",
+            "dateTime": null,
+            "content": "2092-STX-3790-5N-ND",
+            "tagIds": []
+          },
+          {
+            "id": "9b997e22-bc9a-4cc0-817e-e19f260ca75d",
+            "isExternalLink": false,
+            "columnId": "8cb26f70-d8bb-4796-a3ac-3adf251d5e66",
+            "dateTime": null,
+            "content": "1.94",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "483d594c-1b2e-42fe-8845-ac4ddc8734ab",
+        "index": 6,
+        "sourceId": null,
+        "creationTime": 1698940081263,
+        "lastEditedTime": 1698941447538,
+        "cells": [
+          {
+            "id": "91149af5-a8fe-4ae8-b470-3fcf9ffaa243",
+            "isExternalLink": false,
+            "columnId": "4149dd56-b40b-48d0-a75e-ad6d8ed4f836",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "4a3fab2b-59f5-474b-a0e3-e08207d41fea",
+            "isExternalLink": false,
+            "columnId": "1db139c1-ccbd-44f3-80a4-5b0a05ac6be5",
+            "dateTime": null,
+            "content": "JP1",
+            "tagIds": []
+          },
+          {
+            "id": "6767f9ad-2bb2-4213-ba6b-980280d93513",
+            "isExternalLink": false,
+            "columnId": "db7fe044-64f3-42b0-9bcb-0c63b8c1ce55",
+            "dateTime": null,
+            "content": "Connector Header Through Hole 20 position 0.100\" (2.54mm)",
+            "tagIds": []
+          },
+          {
+            "id": "5be84a3c-3139-4206-9911-e3107aa947d8",
+            "isExternalLink": false,
+            "columnId": "acea7e15-0006-482f-ad03-f1ce213d8a4d",
+            "dateTime": null,
+            "content": "PREC010DAAN-RC",
+            "tagIds": []
+          },
+          {
+            "id": "ec6d6bbb-b84b-463b-b18c-d82e3e68d717",
+            "isExternalLink": false,
+            "columnId": "fbf126f8-5a51-41c2-90d7-f0622f48f32c",
+            "dateTime": null,
+            "content": "S2012EC-10-ND",
+            "tagIds": []
+          },
+          {
+            "id": "88edf64a-c5ff-49b0-9bdf-1298ecb0656c",
+            "isExternalLink": false,
+            "columnId": "8cb26f70-d8bb-4796-a3ac-3adf251d5e66",
+            "dateTime": null,
+            "content": "0.31",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "10fdef57-419a-4617-af8d-36641a3289a9",
+        "index": 7,
+        "sourceId": null,
+        "creationTime": 1698940081845,
+        "lastEditedTime": 1698941460836,
+        "cells": [
+          {
+            "id": "ca7e5906-0244-4c81-bbae-65bdd29f0316",
+            "isExternalLink": false,
+            "columnId": "4149dd56-b40b-48d0-a75e-ad6d8ed4f836",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "dfd6cc5c-3640-4495-acae-81dfa5e5a950",
+            "isExternalLink": false,
+            "columnId": "1db139c1-ccbd-44f3-80a4-5b0a05ac6be5",
+            "dateTime": null,
+            "content": "JP2",
+            "tagIds": []
+          },
+          {
+            "id": "3e8422b6-3e52-4188-a807-cc117401d13f",
+            "isExternalLink": false,
+            "columnId": "db7fe044-64f3-42b0-9bcb-0c63b8c1ce55",
+            "dateTime": null,
+            "content": "Connector Header Through Hole 4 position 0.100\" (2.54mm)",
+            "tagIds": []
+          },
+          {
+            "id": "9f590bc0-cde2-4d38-a05c-cdd1fcd237f3",
+            "isExternalLink": false,
+            "columnId": "acea7e15-0006-482f-ad03-f1ce213d8a4d",
+            "dateTime": null,
+            "content": "PREC002DAAN-RC",
+            "tagIds": []
+          },
+          {
+            "id": "66eb0edf-dab6-43b9-b082-44e6b6f2a607",
+            "isExternalLink": false,
+            "columnId": "fbf126f8-5a51-41c2-90d7-f0622f48f32c",
+            "dateTime": null,
+            "content": "S2012EC-02-ND",
+            "tagIds": []
+          },
+          {
+            "id": "af2da365-a0eb-4c01-863a-b69d3aabdb97",
+            "isExternalLink": false,
+            "columnId": "8cb26f70-d8bb-4796-a3ac-3adf251d5e66",
+            "dateTime": null,
+            "content": "0.08",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "e9bd5ed3-f2e1-4606-a033-6d9e1dae987b",
+        "index": 8,
+        "sourceId": null,
+        "creationTime": 1698940082449,
+        "lastEditedTime": 1698941475331,
+        "cells": [
+          {
+            "id": "f2240685-0d0d-47c8-90a4-9725ea8d9332",
+            "isExternalLink": false,
+            "columnId": "4149dd56-b40b-48d0-a75e-ad6d8ed4f836",
+            "dateTime": null,
+            "content": "7",
+            "tagIds": []
+          },
+          {
+            "id": "092b7326-6ca3-4e50-9004-a41cf930a34f",
+            "isExternalLink": false,
+            "columnId": "1db139c1-ccbd-44f3-80a4-5b0a05ac6be5",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "8e568199-5b31-4c56-9590-51c45a701613",
+            "isExternalLink": false,
+            "columnId": "db7fe044-64f3-42b0-9bcb-0c63b8c1ce55",
+            "dateTime": null,
+            "content": "Round Keyswitch Switch Cap Black Snap Fit",
+            "tagIds": []
+          },
+          {
+            "id": "c59006e8-7c7a-4830-9205-93ca3de6d8d6",
+            "isExternalLink": false,
+            "columnId": "acea7e15-0006-482f-ad03-f1ce213d8a4d",
+            "dateTime": null,
+            "content": "PV BK",
+            "tagIds": []
+          },
+          {
+            "id": "01b07fbb-a7b9-4a35-aca7-3afd7d9db955",
+            "isExternalLink": false,
+            "columnId": "fbf126f8-5a51-41c2-90d7-f0622f48f32c",
+            "dateTime": null,
+            "content": "401-1148-ND",
+            "tagIds": []
+          },
+          {
+            "id": "f078fe2f-0448-4b4d-ba29-1579e5f1e32b",
+            "isExternalLink": false,
+            "columnId": "8cb26f70-d8bb-4796-a3ac-3adf251d5e66",
+            "dateTime": null,
+            "content": "0.52",
+            "tagIds": []
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.10.1"
+}

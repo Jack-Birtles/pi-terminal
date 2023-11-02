@@ -8,28 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aff4e8cf06ecc237",
+            "id": "3054c1f384483184",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "dataloom",
+              "state": {
+                "file": "Main BOM.loom"
+              }
             }
           },
           {
-            "id": "3abefc50f1617f93",
+            "id": "aaf0c63bd94492e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "dataloom",
               "state": {
-                "file": "Main BOM.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Control Panel BOM.loom"
+              }
+            }
+          },
+          {
+            "id": "c9d2abfa30b9fb09",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Power Adapter BOM.loom"
+              }
+            }
+          },
+          {
+            "id": "09f30a2cca6f35a4",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Hardware BOM.loom"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main BOM.md",
+                "file": "Main BOM.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main BOM.md",
+                "file": "Main BOM.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main BOM.md"
+                "file": "Main BOM.loom"
               }
             }
           },
@@ -159,19 +177,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create new loom": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "notion-like-tables:Create loom": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3abefc50f1617f93",
+  "active": "3054c1f384483184",
   "lastOpenFiles": [
+    "Hardware BOM.loom",
+    "Power Adapter BOM.loom",
+    "Control Panel BOM.loom",
+    "Main BOM.loom",
     "Main BOM.md",
     "Classes.md",
     "Name Ideas.md",

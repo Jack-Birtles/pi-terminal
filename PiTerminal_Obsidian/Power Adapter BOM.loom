@@ -1,0 +1,541 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "2169d91c-e9cf-491f-ac3d-6b4de4863f10",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "80px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Qty",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "d2cff4f2-b38f-410b-922f-f3513aad6d96",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "104px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "PCB No.",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "5dce0d9a-c64d-4f40-ab63-dcc7a3db0b9c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "486px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Description",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "3c75f78a-2911-4c3f-a358-708fdf56be3b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "241px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Manufacturer Part No.",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "b473f2dd-bdc0-4759-8a14-2ebf59bc936d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "244px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Digikey",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "bedf19ab-f218-4f9e-8e74-32446e253ad8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "252px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Price Per 1 (No VAT)",
+        "numberFormat": "currency",
+        "currencyType": "GBP",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "34e32690-d6c4-4b60-b472-0e81bc9f989d",
+        "index": 0,
+        "sourceId": null,
+        "creationTime": 1698934270203,
+        "lastEditedTime": 1698935158945,
+        "cells": [
+          {
+            "id": "23c38ed2-7a9a-433a-870b-0f7fc00b5c7c",
+            "isExternalLink": false,
+            "columnId": "2169d91c-e9cf-491f-ac3d-6b4de4863f10",
+            "dateTime": null,
+            "content": "2",
+            "tagIds": []
+          },
+          {
+            "id": "74d8dc15-528f-44fd-b07a-86000a55f291",
+            "isExternalLink": false,
+            "columnId": "d2cff4f2-b38f-410b-922f-f3513aad6d96",
+            "dateTime": null,
+            "content": "J1, J2",
+            "tagIds": []
+          },
+          {
+            "id": "1ae9f618-4f5b-4676-8a33-cafe54e7c3d5",
+            "isExternalLink": false,
+            "columnId": "5dce0d9a-c64d-4f40-ab63-dcc7a3db0b9c",
+            "dateTime": null,
+            "content": "USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy) Charging only",
+            "tagIds": []
+          },
+          {
+            "id": "13b2e965-7e83-4d48-8645-fd4f6a187505",
+            "isExternalLink": false,
+            "columnId": "3c75f78a-2911-4c3f-a358-708fdf56be3b",
+            "dateTime": null,
+            "content": "USB4125-GF-A",
+            "tagIds": []
+          },
+          {
+            "id": "27deaa06-3784-4057-9b7f-d465c5e66034",
+            "isExternalLink": false,
+            "columnId": "b473f2dd-bdc0-4759-8a14-2ebf59bc936d",
+            "dateTime": null,
+            "content": "2073-USB4125-GF-ACT-ND",
+            "tagIds": []
+          },
+          {
+            "id": "e9b1b012-8a4e-400d-a6d1-e9586d3e0337",
+            "isExternalLink": false,
+            "columnId": "bedf19ab-f218-4f9e-8e74-32446e253ad8",
+            "dateTime": null,
+            "content": "0.55",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "aaccd525-f4f7-407d-aaa6-849c576f1658",
+        "index": 1,
+        "sourceId": null,
+        "creationTime": 1698934446095,
+        "lastEditedTime": 1698935296137,
+        "cells": [
+          {
+            "id": "83f20161-c71d-43b6-b876-cf8efdebe340",
+            "isExternalLink": false,
+            "columnId": "2169d91c-e9cf-491f-ac3d-6b4de4863f10",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "71427c49-0bb6-48d6-a4a2-9a1ea29e8ebc",
+            "isExternalLink": false,
+            "columnId": "d2cff4f2-b38f-410b-922f-f3513aad6d96",
+            "dateTime": null,
+            "content": "J3",
+            "tagIds": []
+          },
+          {
+            "id": "b70a7c72-31bc-4cc2-bb9d-1da1195ebc49",
+            "isExternalLink": false,
+            "columnId": "5dce0d9a-c64d-4f40-ab63-dcc7a3db0b9c",
+            "dateTime": null,
+            "content": "USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle",
+            "tagIds": []
+          },
+          {
+            "id": "33cc503b-9adf-4d4c-bce6-b3a801abbac8",
+            "isExternalLink": false,
+            "columnId": "3c75f78a-2911-4c3f-a358-708fdf56be3b",
+            "dateTime": null,
+            "content": "10118192-0002LF",
+            "tagIds": []
+          },
+          {
+            "id": "6aa0b36e-d54c-4099-b3c4-69294895dc6a",
+            "isExternalLink": false,
+            "columnId": "b473f2dd-bdc0-4759-8a14-2ebf59bc936d",
+            "dateTime": null,
+            "content": "609-5379-1-ND",
+            "tagIds": []
+          },
+          {
+            "id": "0082763d-cc05-47e6-b1c1-0f91ca9a8b74",
+            "isExternalLink": false,
+            "columnId": "bedf19ab-f218-4f9e-8e74-32446e253ad8",
+            "dateTime": null,
+            "content": "0.36",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "d3077c18-50ba-423d-98a6-30087de40baa",
+        "index": 2,
+        "sourceId": null,
+        "creationTime": 1698934449025,
+        "lastEditedTime": 1698935489934,
+        "cells": [
+          {
+            "id": "29651bc6-e8b8-4317-bb5c-eb505a925cf0",
+            "isExternalLink": false,
+            "columnId": "2169d91c-e9cf-491f-ac3d-6b4de4863f10",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "f57e8f74-af6c-45bc-b4ec-1141170ebad4",
+            "isExternalLink": false,
+            "columnId": "d2cff4f2-b38f-410b-922f-f3513aad6d96",
+            "dateTime": null,
+            "content": "JP1",
+            "tagIds": []
+          },
+          {
+            "id": "8ebe399b-f60f-4a81-8108-0cd719225e38",
+            "isExternalLink": false,
+            "columnId": "5dce0d9a-c64d-4f40-ab63-dcc7a3db0b9c",
+            "dateTime": null,
+            "content": "Connector Header Through Hole 2 position 0.100\" (2.54mm)",
+            "tagIds": []
+          },
+          {
+            "id": "61a11ca3-d45a-4d28-b815-0dab519b4d2e",
+            "isExternalLink": false,
+            "columnId": "3c75f78a-2911-4c3f-a358-708fdf56be3b",
+            "dateTime": null,
+            "content": "PREC002SAAN-RC",
+            "tagIds": []
+          },
+          {
+            "id": "42b305ea-86c5-496e-b6f2-54ee534b65f3",
+            "isExternalLink": false,
+            "columnId": "b473f2dd-bdc0-4759-8a14-2ebf59bc936d",
+            "dateTime": null,
+            "content": "S1012EC-02-ND",
+            "tagIds": []
+          },
+          {
+            "id": "8d3d8b0d-7ed4-4996-adb0-e1e6dc47bb5a",
+            "isExternalLink": false,
+            "columnId": "bedf19ab-f218-4f9e-8e74-32446e253ad8",
+            "dateTime": null,
+            "content": "0.08",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "09f817ad-85d6-476b-b69c-b4e8a58c2f29",
+        "index": 3,
+        "sourceId": null,
+        "creationTime": 1698934449661,
+        "lastEditedTime": 1698935514370,
+        "cells": [
+          {
+            "id": "a168b25e-907c-481f-abef-aae77620b8b3",
+            "isExternalLink": false,
+            "columnId": "2169d91c-e9cf-491f-ac3d-6b4de4863f10",
+            "dateTime": null,
+            "content": "2",
+            "tagIds": []
+          },
+          {
+            "id": "a7c1ed43-378c-4af6-aa4b-f66734e4ffea",
+            "isExternalLink": false,
+            "columnId": "d2cff4f2-b38f-410b-922f-f3513aad6d96",
+            "dateTime": null,
+            "content": "R1, R2",
+            "tagIds": []
+          },
+          {
+            "id": "42fb275d-6d46-48f5-861a-36276238f12f",
+            "isExternalLink": false,
+            "columnId": "5dce0d9a-c64d-4f40-ab63-dcc7a3db0b9c",
+            "dateTime": null,
+            "content": "5.1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric)",
+            "tagIds": []
+          },
+          {
+            "id": "52e91a19-3035-4e1a-ae69-4911a9643f18",
+            "isExternalLink": false,
+            "columnId": "3c75f78a-2911-4c3f-a358-708fdf56be3b",
+            "dateTime": null,
+            "content": "RC0603JR-075K1L",
+            "tagIds": []
+          },
+          {
+            "id": "1846550c-3abd-4469-881e-bb1cac94f5a6",
+            "isExternalLink": false,
+            "columnId": "b473f2dd-bdc0-4759-8a14-2ebf59bc936d",
+            "dateTime": null,
+            "content": "311-5.1KGRCT-ND",
+            "tagIds": []
+          },
+          {
+            "id": "2b0d58b5-4d6a-4d4c-8be9-e6872570a75e",
+            "isExternalLink": false,
+            "columnId": "bedf19ab-f218-4f9e-8e74-32446e253ad8",
+            "dateTime": null,
+            "content": "0.08",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "f5ebf153-8ac3-4965-9d61-bc040c67676e",
+        "index": 4,
+        "sourceId": null,
+        "creationTime": 1698934450261,
+        "lastEditedTime": 1698935552415,
+        "cells": [
+          {
+            "id": "dbb7f9b3-9cb3-46e0-b495-3736989ded8e",
+            "isExternalLink": false,
+            "columnId": "2169d91c-e9cf-491f-ac3d-6b4de4863f10",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "5b07ade0-c111-4ed1-acd6-1b3a6752a191",
+            "isExternalLink": false,
+            "columnId": "d2cff4f2-b38f-410b-922f-f3513aad6d96",
+            "dateTime": null,
+            "content": "U1",
+            "tagIds": []
+          },
+          {
+            "id": "d22d7711-01b6-4b41-b6de-9af31b238775",
+            "isExternalLink": false,
+            "columnId": "5dce0d9a-c64d-4f40-ab63-dcc7a3db0b9c",
+            "dateTime": null,
+            "content": "2 Position Wire to Board Terminal Block Horizontal with Board",
+            "tagIds": []
+          },
+          {
+            "id": "8190b5c1-e125-45bb-93e3-69ee1fc155c8",
+            "isExternalLink": false,
+            "columnId": "3c75f78a-2911-4c3f-a358-708fdf56be3b",
+            "dateTime": null,
+            "content": "282837-2",
+            "tagIds": []
+          },
+          {
+            "id": "cf408100-51dd-453e-87f5-9c3565a89f9f",
+            "isExternalLink": false,
+            "columnId": "b473f2dd-bdc0-4759-8a14-2ebf59bc936d",
+            "dateTime": null,
+            "content": "A113320-ND",
+            "tagIds": []
+          },
+          {
+            "id": "ed703373-10b8-496e-8b9f-e5af8db758c5",
+            "isExternalLink": false,
+            "columnId": "bedf19ab-f218-4f9e-8e74-32446e253ad8",
+            "dateTime": null,
+            "content": "0.58",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "44b78c6e-c254-493b-9bbf-bd5bc78a6ff4",
+        "index": 5,
+        "sourceId": null,
+        "creationTime": 1698934450781,
+        "lastEditedTime": 1698935568537,
+        "cells": [
+          {
+            "id": "87b233a9-f82f-427b-9c12-88051769a7b2",
+            "isExternalLink": false,
+            "columnId": "2169d91c-e9cf-491f-ac3d-6b4de4863f10",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "a67068ea-1493-49b0-b4e8-144fe32456f8",
+            "isExternalLink": false,
+            "columnId": "d2cff4f2-b38f-410b-922f-f3513aad6d96",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "46ba67c9-d5eb-4ee3-901a-d2971730f99c",
+            "isExternalLink": false,
+            "columnId": "5dce0d9a-c64d-4f40-ab63-dcc7a3db0b9c",
+            "dateTime": null,
+            "content": "Rocker Switch SPST 6A (AC) 125 V Panel Mount, Snap-In",
+            "tagIds": []
+          },
+          {
+            "id": "238ca238-10e2-4f52-8ddf-1083f1dba2c1",
+            "isExternalLink": false,
+            "columnId": "3c75f78a-2911-4c3f-a358-708fdf56be3b",
+            "dateTime": null,
+            "content": "PRK22J5BBBNN",
+            "tagIds": []
+          },
+          {
+            "id": "e4172bb4-8a0d-4498-bf52-d6c00b65b7ce",
+            "isExternalLink": false,
+            "columnId": "b473f2dd-bdc0-4759-8a14-2ebf59bc936d",
+            "dateTime": null,
+            "content": "CH864-ND",
+            "tagIds": []
+          },
+          {
+            "id": "15df6e01-69cd-413b-9497-8b42866f46b7",
+            "isExternalLink": false,
+            "columnId": "bedf19ab-f218-4f9e-8e74-32446e253ad8",
+            "dateTime": null,
+            "content": "1.53",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "8056e5d3-97e9-4015-8b83-99b2882bc258",
+        "index": 6,
+        "sourceId": null,
+        "creationTime": 1698934451345,
+        "lastEditedTime": 1698935585415,
+        "cells": [
+          {
+            "id": "ff1d90b8-283a-494c-996e-4fa237bf08ee",
+            "isExternalLink": false,
+            "columnId": "2169d91c-e9cf-491f-ac3d-6b4de4863f10",
+            "dateTime": null,
+            "content": "1",
+            "tagIds": []
+          },
+          {
+            "id": "4bb83cb2-ed20-4fe2-99b4-5b5cedb19431",
+            "isExternalLink": false,
+            "columnId": "d2cff4f2-b38f-410b-922f-f3513aad6d96",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "e24a646a-fa5c-438a-8498-16dc5b98fe10",
+            "isExternalLink": false,
+            "columnId": "5dce0d9a-c64d-4f40-ab63-dcc7a3db0b9c",
+            "dateTime": null,
+            "content": "Shunt Connector Black Open Top 0.100\" (2.54mm) Gold",
+            "tagIds": []
+          },
+          {
+            "id": "6f565211-5ee3-41ca-a59c-c80acfc6fc08",
+            "isExternalLink": false,
+            "columnId": "3c75f78a-2911-4c3f-a358-708fdf56be3b",
+            "dateTime": null,
+            "content": "QPC02SXGN-RC",
+            "tagIds": []
+          },
+          {
+            "id": "b0910652-a9eb-4be7-aed0-90403b8fc695",
+            "isExternalLink": false,
+            "columnId": "b473f2dd-bdc0-4759-8a14-2ebf59bc936d",
+            "dateTime": null,
+            "content": "S9337-ND",
+            "tagIds": []
+          },
+          {
+            "id": "b736b494-2881-496f-9bba-2155e4a634f7",
+            "isExternalLink": false,
+            "columnId": "bedf19ab-f218-4f9e-8e74-32446e253ad8",
+            "dateTime": null,
+            "content": "0.08",
+            "tagIds": []
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.10.1"
+}
